@@ -1,0 +1,10 @@
+{
+  "name": "Sales Command Center",
+  "short_name": "Command",
+  "description": "Niki's relationship and follow-through engine",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf7ff",
+  "theme_color": "#b9a7f7",
+  "icons": []
+}
